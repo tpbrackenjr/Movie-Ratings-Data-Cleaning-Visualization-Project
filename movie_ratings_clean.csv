@@ -1,0 +1,9 @@
+movie_title,genre,release_year,user_rating,reviewer_id,watched,movie_id
+Star Wars,Sci-Fi,1977,5,1001,Yes,Star Wars_1001
+Inception,Sci-Fi,2010,4,1002,No,Inception_1002
+Inception,Sci-Fi,2010,3,1003,No,Inception_1003
+The Matrix,Action,1999,5,1004,Yes,The Matrix_1004
+The Godfather,Crime,1972,5,1005,No,The Godfather_1005
+Avengers,Action,2012,1,1006,Yes,Avengers_1006
+Pulp Fiction,Crime,1994,4,1007,No,Pulp Fiction_1007
+Avatar,Sci-Fi,2009,5,1008,Yes,Avatar_1008

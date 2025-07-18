@@ -1,0 +1,9 @@
+Movie Title,Genre,Release Year,User Rating,Reviewer ID,Watched
+star wars,Sci-Fi,1977,6,1001,Y
+Inception,Sci-Fi,2010,4,1002,No
+Inception,Sci-Fi,2010,3,1003,N
+The Matrix,Action,1999,5,1004,TRUE
+The Godfather,Crime,1972,5,1005,FALSE
+Avengers,Action,2012,0,1006,Yes
+Pulp Fiction,Crime,1994,4,1007,No
+Avatar,Sci-Fi,2009,5,1008,yes
